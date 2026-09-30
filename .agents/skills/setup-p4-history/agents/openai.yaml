@@ -1,0 +1,4 @@
+interface:
+  display_name: "Set up Perforce history"
+  short_description: "Install local changelist history on Windows"
+  default_prompt: "Use $setup-p4-history to install the MCP server for my Perforce workspace."
